@@ -9,6 +9,8 @@ Installation
     $> mkdir ~/Library/Developer/Xcode
 * go to personal templates folder
     $> cd ~/Library/Developer/Xcode
+    $ cd cocos2d-iphone
+    $ ./install-templates.sh -u -f
 * clone repository
     $> git@github.com:ciukes/XCode4-Templates.git "Custom Templates"
 
