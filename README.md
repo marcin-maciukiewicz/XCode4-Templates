@@ -3,7 +3,6 @@ XCode4 Templates
 
 Installation
 ------------
-* clone repository
 * open terminal
 * create personal templates folder (if doesn't exist)
     `$> mkdir ~/Library/Developer/Xcode`
