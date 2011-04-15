@@ -10,7 +10,7 @@
 	<key>DefaultCompletionName</key>
 	<string>MyClass</string>
 	<key>Description</key>
-	<string>An Objective-C class, following singleton pattern with help of Google Toolbox (http://code.google.com/p/google-toolbox-for-mac) - must be available in the project.</string>
+	<string>An Objective-C class, following singleton pattern.</string>
 	<key>Kind</key>
 	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
 	<key>MainTemplateFile</key>
