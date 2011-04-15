@@ -4,7 +4,7 @@ XCode4 Templates
 Installation
 ------------
 * open terminal
-* create personal templates folder (if doesn't exist)
+* create personal templates folder (if it doesn't exist)
     `$> mkdir ~/Library/Developer/Xcode`
 * go to personal templates folder
     `$> cd ~/Library/Developer/Xcode`
