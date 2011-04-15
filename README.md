@@ -20,7 +20,7 @@ Updating
 --------
 * open terminal
 * go to templates folder
-    `$> cd cd ~/Library/Developer/Xcode/Templates/File\ Templates/Custom\ Templates`
+    `$> cd ~/Library/Developer/Xcode/Templates/File\ Templates/Custom\ Templates`
 * pull latest changes
     `$> git pull`
 
