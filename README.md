@@ -6,12 +6,11 @@ Installation
 * clone repository
 * open terminal
 * create personal templates folder (if doesn't exist)
-`
-    $> mkdir ~/Library/Developer/Xcode`
+    $> mkdir ~/Library/Developer/Xcode
 * go to personal templates folder
-`$> cd ~/Library/Developer/Xcode`
+    $> cd ~/Library/Developer/Xcode
 * clone repository
-`$> git@github.com:ciukes/XCode4-Templates.git "Custom Templates"`
+    $> git@github.com:ciukes/XCode4-Templates.git "Custom Templates"
 
 Done
 
@@ -21,9 +20,9 @@ Updating
 --------
 * open terminal
 * go to templates folder
-`$> cd ~/Library/Developer/Xcode/Custom\ Templates`
+    $> cd ~/Library/Developer/Xcode/Custom\ Templates
 * pull latest changes
-`$> git pull`
+    $> git pull
 
 Done
 
