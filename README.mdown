@@ -3,6 +3,15 @@ XCode4 Templates
 
 Installation
 ------------
+
+How to start a new game
+-----------------------
+
+Run the 'install-templates.sh' script:
+    $ cd cocos2d-iphone
+    $ ./install-templates.sh -u -f
+And then open XCode -> New Project -> User Templates -> cocos2d
+
 * clone repository
 * open terminal
 * create personal templates folder (if doesn't exist)
