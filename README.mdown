@@ -15,6 +15,9 @@ Installation
     $> git@github.com:ciukes/XCode4-Templates.git "Custom Templates"
 
 Done
+    $> cd ~/Library/Developer/Xcode
+    $ cd cocos2d-iphone
+    $ ./install-templates.sh -u -f
 
 The templates will be available in XCode4 under a new section named "Custom Templates".
 
